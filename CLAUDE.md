@@ -1,0 +1,1 @@
+- use semantic commits for commit messages
